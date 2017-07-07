@@ -1,0 +1,107 @@
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Controls.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Fuzzy.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Genetic.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Imaging.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Imaging.Formats.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Imaging.IPPrototyper.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.MachineLearning.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Math.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Neuro.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Robotics.Lego.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Robotics.Surveyor.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Robotics.TeRK.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.FFMPEG.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.Kinect.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.VFW.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.Ximea.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Vision.dll
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\IPPrototyper.exe
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Controls.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Fuzzy.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Genetic.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Imaging.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Imaging.Formats.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.MachineLearning.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Math.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Neuro.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Robotics.Lego.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Robotics.Surveyor.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Robotics.TeRK.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.FFMPEG.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.Kinect.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.VFW.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Video.Ximea.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AForge.Vision.xml
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+c:\users\asus\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Accord.dll.config
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Accord.dll
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Accord.xml
+C:\Users\ASUS\Documents\Visual Studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\SVM.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\Accord.dll.config
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\Accord.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Controls.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.DebuggerVisualizers (2010).dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Fuzzy.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Genetic.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Imaging.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Imaging.Formats.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Imaging.IPPrototyper.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.MachineLearning.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Math.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Neuro.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Robotics.Lego.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Robotics.Surveyor.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Robotics.TeRK.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.DirectShow.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.FFMPEG.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.Kinect.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.VFW.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.Ximea.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Vision.dll
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\IPPrototyper.exe
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\Accord.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Controls.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Fuzzy.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Genetic.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Imaging.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Imaging.Formats.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.MachineLearning.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Math.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Neuro.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Robotics.Lego.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Robotics.Surveyor.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Robotics.TeRK.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.DirectShow.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.FFMPEG.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.Kinect.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.VFW.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Video.Ximea.xml
+D:\HAND GESTURE\WindowsFormsApp5\bin\Debug\AForge.Vision.xml
+D:\HAND GESTURE\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+D:\HAND GESTURE\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+D:\HAND GESTURE\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\HAND GESTURE\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+D:\HAND GESTURE\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\HAND GESTURE\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
